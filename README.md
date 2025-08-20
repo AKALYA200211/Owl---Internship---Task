@@ -1,4 +1,4 @@
-Owl Internship – Student Performance Analysis
+#Owl Internship – Student Performance Analysis
 
 This repository contains my internship work for the **Owl AI Virtual Internship – Data Analyst Task (August 2025)**.  
 The project is based on analyzing a **Student Performance Dataset** to identify trends and insights in academics.
