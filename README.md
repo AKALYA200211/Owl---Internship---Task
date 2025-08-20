@@ -1,4 +1,4 @@
-# Owl Internship – Student Performance Analysis
+Owl Internship – Student Performance Analysis
 
 This repository contains my internship work for the **Owl AI Virtual Internship – Data Analyst Task (August 2025)**.  
 The project is based on analyzing a **Student Performance Dataset** to identify trends and insights in academics.
@@ -9,7 +9,7 @@ Task 1 – Excel Analysis
 - Visualized **gender-wise average scores** and **distribution of high scorers**.  
 - Key Insight: Female students performed better in Reading & Writing, while male students had slightly higher Math scores.
 
-##Task 2 – Python Analysis
+Task 2 – Python Analysis
 - Performed statistical analysis and data exploration using Python.  
 - Cleaned and transformed the dataset for better analysis.  
 - Used libraries such as **Pandas, Matplotlib, and Seaborn** for data handling and visualization.  
@@ -34,5 +34,5 @@ Tools Used
 - **Python** – Data cleaning, statistical analysis, visualizations  
 - **Power BI** – Dashboard creation and interactive insights  
 
-##Author
+Author
   **Akalya Radhakrishnan**
